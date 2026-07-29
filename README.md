@@ -53,8 +53,4 @@ It is **not a substitute for professional medical advice or emergency care**.
 
 ---
 
-👉 With this README, repo will clearly show judges:
-- ✅ Gemma SDK integration  
-- ✅ Valid model usage (`gemma-4-26b-a4b-it` or `gemma-4-31b-it`)  
-- ✅ Patient triage functionality (Green, Yellow, Red)  
-- ✅ Safety disclaimer  
+
